@@ -14,3 +14,6 @@ Open PowerShell Or Cmd.exe
 Type: pip3 install tkinter
 Type: pip3 install pyshorteners
 ==================================
+
+
+# discord : wo0.
